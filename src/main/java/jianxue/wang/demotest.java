@@ -14,5 +14,6 @@ public class demotest {
         System.out.println("ok-hotfix4");
         System.out.println("master-test");
 
+        System.out.println("hot-test");
     }
 }
